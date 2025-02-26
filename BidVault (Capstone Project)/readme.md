@@ -1,6 +1,6 @@
 Capstone Project: BidVault
 --------------------------------
-![bidvault logo](imagelink)
+![bidvault logo](https://raw.githubusercontent.com/mips-dev/Q1_25_Builder_mips-dev/main/BidVault%20(Capstone%20Project)/BidVaultImage.png)
 
 --------------------------------
 Bidvault 
